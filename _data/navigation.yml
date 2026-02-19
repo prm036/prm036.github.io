@@ -9,16 +9,19 @@
 
 main:
   - title: "Projects"
-    url: /publications/
-
-  - title: "Research"
-    url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+    url: /projects/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Coursework"
+    url: /coursework/    
+
+  - title: "Paper Readings"
+    url: /paper-readings/    
+    
+  - title: "Skills"
+    url: /skills/
+    
+  - title: "Experience"
+    url: /experience/
         
   - title: "Blog Posts"
     url: /year-archive/
