@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a first year Master of Science in Computer Science (MSCS) student at [Northwestern University](https://www.northwestern.edu/), specializing in Artificial Intelligence track. My primary areas of interests are [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence), particularly [Diffusion Models](https://en.wikipedia.org/wiki/Diffusion_model). I'm focusing on these areas from both a theoretical standpoint and an application-oriented perspective, and I am actively engaged in the research projects related to this area.
+Hi, I’m Praneeth — a Master’s student in Computer Science at [Northwestern University](https://www.northwestern.edu/), specializing in Artificial Intelligence (expected December 2026).
 
-I'm also a Peer Mentor (Undergrad TA) for the [Compiler Construction](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/322.html) course.
+I am broadly interested in **deep learning**, **foundation models**, and **Generative AI**, with a particular emphasis on [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model). I explore these areas from both a theoretical and a systems/application perspective, focusing on developing models that are not only powerful, but also efficient, robust, and deployable in real-world environments.
 
-Prior to my masters, I worked as a Software Engineer at [Arcesium](https://www.arcesium.com/).
+Some of my recent projects involve - **LLM fine-tuning** while mitigating catastrophic forgetting, evaluating post-training quantization (PTQ) in **Diffusion Transformers** like PixArt-α, and training **Vision-Language-Action (VLA)** policies for deformable object manipulation.
 
+Before starting my master’s, I was as a Software Engineer at [Arcesium](https://www.arcesium.com/), where I worked on scalable distributed systems, particularly job-execution engines and data-ingestion pipelines.
+
+I currently serve as a Peer Mentor (Undergraduate TA) for the [Compiler Construction](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/322.html) course.
+
+<p style="color: red; font-weight: 600;">I am actively seeking Summer 2026 internships in Machine Learning and Generative AI applied research.</p>
+
+Feel free to explore my [projects](/projects/), or reach out via [email](mailto:[EMAIL_ADDRESS]), [LinkedIn](https://www.linkedin.com/in/praneethreddym/), or [GitHub](https://github.com/prm036). You can also view my [CV](/cv/) for more details.
