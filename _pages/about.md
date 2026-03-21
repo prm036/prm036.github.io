@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Praneeth — a Master’s student in Computer Science(MSCS) at [Northwestern University](https://www.northwestern.edu/), specializing in Artificial Intelligence (expected December 2026).
+Hi, I’m Praneeth — a Master’s student in Computer Science (MSCS) at [Northwestern University](https://www.northwestern.edu/), specializing in Artificial Intelligence (expected December 2026).
 
 I am broadly interested in **deep learning**, **foundation models**, and **Generative AI**, with a particular emphasis on [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model). I'm exploring these areas from both a theoretical and a systems/application perspective, focusing on developing models that are not only high-performing, but also efficient, robust, and deployable in real-world environments.
 
