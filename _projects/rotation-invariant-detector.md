@@ -1,6 +1,6 @@
 ---
 title: "Rotation Invariant Multi-Object Detector"
-collection: portfolio
+collection: projects
 excerpt: "Integrated eigenvector analysis with YOLOv3 to detect improperly oriented images without rotation-augmented training."
 ---
 

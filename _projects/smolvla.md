@@ -1,6 +1,6 @@
 ---
 title: "Deformable Object Manipulation with Vision-Language-Action Policies"
-collection: portfolio
+collection: projects
 excerpt: "Trained SmolVLA on teleoperated demonstrations using imitation learning for long-horizon control tasks."
 ---
 

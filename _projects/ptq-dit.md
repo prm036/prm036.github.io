@@ -1,6 +1,6 @@
 ---
 title: "Post-Training Quantization (PTQ) for Diffusion Transformers"
-collection: portfolio
+collection: projects
 excerpt: "Conducted an empirical study comparing FP and INT quantization formats on PixArt-α diffusion model."
 ---
 
