@@ -17,5 +17,5 @@ author_profile: true
 * Developed a configuration‑driven routing module that dynamically maps logs to Kafka topics and Elasticsearch indices using schema‑aware rules and declarative configs.
 
 **Data Science Intern** | *Arcesium (D.E. Shaw Group)*, Hyderabad, India _(Feb 2021 – May 2021)_
-* Designed a statistical model to compute health scores for core infrastructure services by normalizing multi-source service metrics (1M+ data points/day) of various ranges.
+* Designed a statistical model to compute health scores for core infrastructure services by normalizing multi-source service metrics (1M+ data points/day) of non-uniform ranges.
 * Leveraged ETS time-series models to capture trends and anomalies, improving health prediction accuracy by **30%** over heuristic methods.
