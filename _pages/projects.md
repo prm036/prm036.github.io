@@ -47,4 +47,5 @@ Achieved a **43%** accuracy improvement over the ResNet50 model on the Pascal VO
 Analyzed Deep Reinforcement Learning (DRL) applications in Real-Time Bidding (RTB), formulating the bidding process as a constrained Markov Decision Process(MDP) to address highly non-stationary market behaviors.
 
 Evaluated Deep Q-Network (DQN) architectures - comparing Control-by-Model state aggregation against Direct-Action continuous adaptation - highlighting strategies that improve long-term budget pacing and achieve up to a 120% ROI increase over traditional ones.
+
 [View on GitHub](https://github.com/prm036/DRL-for-Real-Time-Bidding-RTB-in-Sponsored-Search/blob/main/report.pdf)
