@@ -19,4 +19,4 @@ I currently serve as a Peer Mentor (Undergraduate TA) for the [Compiler Construc
 
 <p style="color: red; font-weight: 600;">I am actively looking for Summer 2026 internships in Machine Learning and Generative AI areas.</p>
 
-Feel free to explore my [projects](/projects/), or reach out via [email](mailto:praneeth.nu.mscs@gmail.com), [LinkedIn](https://www.linkedin.com/in/praneethreddym/), or [GitHub](https://github.com/prm036). You can also view my [CV](/cv/) for more details.
+Feel free to explore my [projects](/projects/), or reach out via [email](mailto:praneeth.nu.mscs@gmail.com), [LinkedIn](https://www.linkedin.com/in/praneethreddym/), or [GitHub](https://github.com/prm036). You can also view my [CV](/files/resume.pdf) for more details.
