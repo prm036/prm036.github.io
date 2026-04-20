@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Fine-Tuning LLMs for Math Reasoning While Preserving Safety Alignment
-Fine-tuned **Qwen2.5** model(1.5B & 7B) on **GSM8K** dataset using **LoRA**, improving math accuracy to **0.81** while maintaining **0.88** safety alignment score on **AILuminate** Safety Dataset, surpassing baselines.
+Fine-tuned **Qwen2.5** models (1.5B & 7B) on the **GSM8K** dataset using **LoRA**, improving math accuracy from 38% to 81% while maintaining a strong 88% safety alignment score on the **AILuminate** Safety Dataset.
 
 Performed ablation studies across **10** different hyperparameter configurations (learning rate, LoRA rank, dropout) to analyze performance trade-offs and mitigate catastrophic forgetting in fine-tuned models.
 
