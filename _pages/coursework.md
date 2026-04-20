@@ -19,5 +19,5 @@ author_profile: true
 ### Spring 2026
 * **COMP_SCI 496**: Agent AI
 * **COMP_SCI 461**: Deep Learning for Natural Language Processing
-* **COMP_SCI 463**: Generative Deep Models
+* **IEMS 305**: Foundations of Modern Machine Learning
 * **IEMS 490**: Advanced Topics in Large Foundation Models
