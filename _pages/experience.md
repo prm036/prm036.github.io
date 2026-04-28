@@ -9,8 +9,8 @@ author_profile: true
 {% include base_path %}
 
 **Peer Mentor (Teaching Assistant)** | *Northwestern University*, Evanston, IL _(Jan 2026 – Present)_
-* [**Machine Learning and Sensing**](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-22.html) (Prof. Karan Ahuja) | Spring'26
-* [**Compiler Construction**](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/322.html) (Prof. Dietrich Geisler) | Winter'26
+* [**Machine Learning and Sensing**](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-22.html) (Prof. Karan Ahuja) -- Spring'26
+* [**Compiler Construction**](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/322.html) (Prof. Dietrich Geisler)  -- Winter'26
 * Facilitated weekly office hours and supported students through assignments and projects throughout the quarter.
 * Graded coding assignments and projects, providing detailed and constructive feedback.
 * Coordinated course logistics, including inviting and scheduling external guest speakers.
