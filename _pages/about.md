@@ -58,9 +58,9 @@ redirect_from:
 
 <p>I am broadly interested in <strong>Machine Learning</strong>, <strong>Foundation models</strong>, and <strong>Generative AI</strong>, particularly <a href="https://en.wikipedia.org/wiki/Diffusion_model">diffusion models</a>. I’m exploring these areas from both theoretical and a application perspective, focusing on developing models that are efficient, robust, and deployable in real-world environments.</p>
 
-<p>Previously, I worked as a Software Engineer at <a href="https://www.arcesium.com/">Arcesium</a>, building distributed systems and data-ingestion pipelines.</p>
+<p>Prior to joining grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium (D.E. Shaw Group)</a>, where I was part of the Systems team, building job-execution systems, enterprise alerting system, and low-latency data ingestion pipelines.</p>
 
-<p>Reach out via <a href="mailto:praneeth.mallupalli@gmail.com">email</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>. View my <a href="/files/resume.pdf">CV</a> for more details.</p>
+<p>Feel free to reach out to me at <a href="mailto:praneeth.mallupalli@gmail.com">email</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>. View my <a href="/files/resume.pdf">CV</a> for more details.</p>
 
 <div class="section-heading">Projects</div>
 
@@ -92,5 +92,40 @@ redirect_from:
   <h4>Deep RL for Real-Time Bidding in Sponsored Search &mdash; Literature Review</h4>
   <p>Online ad auctions happen in milliseconds, and traditional rule-based bidders struggle to adapt to shifting market dynamics. This review surveys how Deep RL — specifically DQN variants — reframes real-time bidding as a constrained MDP and learns smarter budget-pacing strategies. The best approaches show up to 120% ROI gains over classical methods, though real-world deployment still has open challenges worth digging into.</p>
   <a href="https://github.com/prm036/DRL-for-Real-Time-Bidding-RTB-in-Sponsored-Search/blob/main/report.pdf">GitHub</a>
+</div>
+
+<div class="section-heading">Experience</div>
+
+<div class="exp-row">
+  <div>
+    <div class="exp-title">Teaching Assistant</div>
+    <div class="exp-company">Northwestern University &middot; <span class="exp-team">Machine Learning &amp; Sensing, Compiler Construction</span></div>
+  </div>
+  <span class="exp-date">Jan 2026 – Present</span>
+</div>
+
+<div class="exp-row">
+  <div>
+    <div class="exp-title">Senior Software Engineer</div>
+    <div class="exp-company">Arcesium (D.E. Shaw Group) &middot; <span class="exp-team">Platform &amp; Distributed Systems</span></div>
+  </div>
+  <span class="exp-date">Jul 2023 – Aug 2025</span>
+</div>
+
+<div class="exp-row">
+  <div>
+    <div class="exp-title">Software Engineer</div>
+    <div class="exp-company">Arcesium (D.E. Shaw Group) &middot; <span class="exp-team">Data Ingestion &amp; Log Infrastructure</span></div>
+  </div>
+  <span class="exp-date">Jun 2021 – Jun 2023</span>
+</div>
+
+<div class="exp-row">
+  <div>
+    <div class="exp-title">Data Science Intern</div>
+    <div class="exp-company">Arcesium (D.E. Shaw Group) &middot; <span class="exp-team">Infrastructure Health &amp; Observability</span></div>
+  </div>
+  <span class="exp-date">Feb 2021 – May 2021</span>
+</div>
 
 </div>
