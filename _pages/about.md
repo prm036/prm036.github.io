@@ -58,7 +58,7 @@ redirect_from:
 
 <p>I am broadly interested in <strong>Machine Learning</strong>, <strong>Foundation models</strong>, and <strong>Generative AI</strong>, particularly <a href="https://en.wikipedia.org/wiki/Diffusion_model">diffusion models</a>. I’m exploring these areas from both theoretical and a application perspective, focusing on developing models that are efficient, robust, and deployable in real-world environments.</p>
 
-<p>Prior to joining grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium (D.E. Shaw Group)</a>, where I was part of the Systems team, building job-execution systems, enterprise alerting system, and low-latency data ingestion pipelines.</p>
+<p>Most recently, I interned at <a href="https://kilwa.com">Kilwa Technologies</a> as an MLE, where I built time-series forecasting models for emerging African markets. Prior to grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium (D.E. Shaw Group)</a>, building distributed job-execution systems and data-ingestion pipelines.</p>
 
 <p>Feel free to reach out to me at <a href="mailto:praneeth.mallupalli@gmail.com">email</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>. View my <a href="/files/resume.pdf">CV</a> for more details.</p>
 
@@ -95,6 +95,14 @@ redirect_from:
 </div>
 
 <div class="section-heading">Experience</div>
+
+<div class="exp-row">
+  <div>
+    <div class="exp-title">Machine Learning Intern</div>
+    <div class="exp-company">Kilwa Technologies LLC &middot; <span class="exp-team">Hybrid Forecasting &amp; Sentiment-Fused Market Intelligence</span></div>
+  </div>
+  <span class="exp-date">Jun 2026 – Aug 2026</span>
+</div>
 
 <div class="exp-row">
   <div>
