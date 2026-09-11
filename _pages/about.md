@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 0.88em; line-height: 1.6;">
+<div style="font-size: 0.88em; line-height: 1.6;" markdown="1">
 
 Hi, I'm Praneeth — a Master's student in Computer Science (MSCS) at <a href="https://www.northwestern.edu/">Northwestern University</a>, specializing in Artificial Intelligence (expected Dec 2026).
 
