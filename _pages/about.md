@@ -60,8 +60,6 @@ redirect_from:
 
 <p>Previously, I worked as a Software Engineer at <a href="https://www.arcesium.com/">Arcesium</a>, building distributed systems and data-ingestion pipelines.</p>
 
-<p class="open-to-work">I am actively looking for full-time opportunities in Machine Learning and Applied AI areas starting Jan 2027.</p>
-
 <p>Reach out via <a href="mailto:praneeth.mallupalli@gmail.com">email</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>. View my <a href="/files/resume.pdf">CV</a> for more details.</p>
 
 <div class="section-heading">Projects</div>
