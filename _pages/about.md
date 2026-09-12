@@ -11,7 +11,7 @@ redirect_from:
 /* Hide the top masthead/header bar */
 .masthead { display: none !important; }
 
-.home-wrap { font-size: 0.87em; line-height: 1.7; }
+.home-wrap { font-size: 0.82em; line-height: 1.7; }
 
 .section-heading {
   font-size: 1em;
