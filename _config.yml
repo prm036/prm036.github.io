@@ -31,6 +31,7 @@ author:
   employer         : "Northwestern University"
   uri              : # URL
   email            : "praneeth.mallupalli@gmail.com"
+  cv               : "/files/resume.pdf"
 
   # Academic websites
   # academia         : # URL
@@ -74,7 +75,7 @@ author:
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : praneeth036
+  # twitter          : praneeth036
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
