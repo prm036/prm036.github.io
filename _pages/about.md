@@ -25,11 +25,17 @@ redirect_from:
 }
 
 /* Projects */
-.project-item { margin-bottom: 1.1em; }
+.project-list { counter-reset: project-counter; }
+.project-item { margin-bottom: 1.1em; counter-increment: project-counter; }
 .project-item h4 {
   margin: 0 0 3px;
   font-size: 0.95em;
   font-weight: 700;
+}
+.project-item h4::before {
+  content: counter(project-counter) ". ";
+  color: #999;
+  font-weight: 400;
 }
 .project-gh-link {
   font-size: 0.72em;
@@ -85,6 +91,8 @@ redirect_from:
 
 <div class="section-heading">Projects</div>
 
+<div class="project-list">
+
 <div class="project-item">
   <h4>Fine-Tuning LLMs for Math Reasoning While Preserving Safety Alignment <a class="project-gh-link" href="https://github.com/prm036/fine-tuning-leads-to-forgetting/blob/main/report.pdf" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></h4>
   <p>Can you make an LLM better at math without breaking its safety guardrails? I fine-tuned <strong>Qwen2.5</strong> on <strong>GSM8K</strong> using <strong>LoRA</strong> and found that with the right setup, math accuracy jumps from 38% to 81% while the model still scores 88% on safety benchmarks. The trickier part was understanding when and why catastrophic forgetting kicks in — I ran ablations across 10 configurations to get a clearer picture.</p>
@@ -108,6 +116,8 @@ redirect_from:
 <div class="project-item">
   <h4>Deep RL for Real-Time Bidding in Sponsored Search &mdash; Literature Review <a class="project-gh-link" href="https://github.com/prm036/DRL-for-Real-Time-Bidding-RTB-in-Sponsored-Search/blob/main/report.pdf" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></h4>
   <p>Online ad auctions happen in milliseconds, and traditional rule-based bidders struggle to adapt to shifting market dynamics. This review surveys how Deep RL — specifically DQN variants — reframes real-time bidding as a constrained MDP and learns smarter budget-pacing strategies. The best approaches show up to 120% ROI gains over classical methods, though real-world deployment still has open challenges worth digging into.</p>
+</div>
+
 </div>
 
 <div class="section-heading">Experience</div>
