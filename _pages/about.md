@@ -83,7 +83,7 @@ redirect_from:
 
 <p>Hi, I'm Praneeth — a Master's student in Computer Science (MSCS) at <a href="https://www.northwestern.edu/">Northwestern University</a>, with concentration in Artificial Intelligence (expected Dec 2026).</p>
 
-<p>I am broadly interested in <strong>Machine Learning</strong>, <strong>Foundation models</strong>, and <strong>Generative AI</strong>, particularly <a href="https://en.wikipedia.org/wiki/Diffusion_model">diffusion models</a>. I’m exploring these areas from both theoretical and a application perspective, focusing on developing models that are efficient, robust, and deployable in real-world environments.</p>
+<p>I am broadly interested in <strong>Machine Learning</strong>, <strong>Foundation models</strong>, and <strong>Generative AI</strong>, particularly <a href="https://en.wikipedia.org/wiki/Diffusion_model">diffusion models</a> / <a href="https://en.wikipedia.org/wiki/Flow-based_generative_model">flow-matching</a>. I’m exploring these areas from both theoretical and a application perspective, focusing on developing models that are efficient, robust, and deployable in real-world environments.</p>
 
 <p>Most recently, I interned at <a href="https://kilwa.io">Kilwa Technologies LLC</a> as an Machine Learning Engineer Intern, where I built hybrid time-series forecasting model for emerging african markets by combining macro-economic indicators and news-based sentiment signals. Prior to grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium</a> (D.E. Shaw Group), in the Infrastructure team building distributed job-execution systems, enterprise alerting systems and low-latency data-ingestion pipelines.</p>
 
