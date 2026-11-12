@@ -83,11 +83,22 @@ redirect_from:
 
 <p>Hi, I'm Praneeth — a Master's student in Computer Science (MSCS) at <a href="https://www.northwestern.edu/">Northwestern University</a>, with concentration in Artificial Intelligence (expected Dec 2026).</p>
 
-<p>I am broadly interested in <strong>Machine Learning</strong>, <strong>Foundation models</strong>, and <strong>Generative AI</strong>, particularly <a href="https://en.wikipedia.org/wiki/Diffusion_model">diffusion models</a> / <a href="https://en.wikipedia.org/wiki/Flow-based_generative_model">flow-matching</a>. I’m exploring these areas from both theoretical and a application perspective, focusing on developing models that are efficient, robust, and deployable in real-world environments.</p>
+<p>
+  I am broadly interested in <strong>foundation models across language, vision, and video</strong>, 
+  <strong>generative modeling</strong>, particularly <strong>diffusion models and flow matching</strong>, 
+  <strong>mechanistic interpretability</strong>, and <strong>time-series modeling</strong>.
+  I explore these areas from both theoretical and applied perspectives, with an emphasis on building 
+  models that are efficient, robust, interpretable, and deployable in real-world settings.
+</p>
 
-<p>Most recently, I interned at <a href="https://kilwa.io">Kilwa Technologies LLC</a> as an Machine Learning Engineer Intern, where I built hybrid time-series forecasting model for emerging african markets by combining macro-economic indicators and news-based sentiment signals. Prior to grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium</a> (D.E. Shaw Group), in the Infrastructure team building distributed job-execution systems, enterprise alerting systems and low-latency data-ingestion pipelines.</p>
+<p>
+  Most recently, I interned at <a href="https://kilwa.io">Kilwa Technologies LLC</a> as an Machine Learning Engineer Intern, where I built hybrid time-series forecasting model for emerging african markets by combining macro-economic indicators and news-based sentiment signals.
+  Prior to grad school, I was a Software Engineer at <a href="https://www.arcesium.com/">Arcesium</a> (D.E. Shaw Group), in the Infrastructure team building distributed job-execution systems, enterprise alerting systems and low-latency data-ingestion pipelines.
+</p>
 
-<p>I'm currently looking for full-time roles in <strong>Machine Learning</strong> and <strong>Applied AI</strong> starting Jan 2027 — if you're working on something interesting, I'd love to connect. Feel free to reach out via <a href="mailto:praneeth.mallupalli@gmail.com">email</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>, or check out my <a href="/files/resume.pdf">CV</a>.</p>
+<p>
+  I'm currently looking for full-time roles in <strong>Machine Learning</strong> and <strong>Applied AI</strong> starting Jan 2027 — if you're working on something interesting, I'd love to connect. Feel free to reach out via <a href="mailto:[EMAIL_ADDRESS]">[EMAIL_ADDRESS]</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>, or check out my <a href="/files/resume.pdf">CV</a>.
+</p>
 
 <div class="section-heading">Projects</div>
 
