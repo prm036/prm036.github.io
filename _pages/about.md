@@ -97,7 +97,7 @@ redirect_from:
 </p>
 
 <p>
-  I'm currently looking for full-time roles in <strong>Machine Learning</strong> and <strong>Applied AI</strong> starting Jan 2027 — if you're working on something interesting, I'd love to connect. Feel free to reach out via <a href="mailto:[praneeth.mallupalli@gmail.com]">[praneeth.mallupalli@gmail.com]</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>, or check out my <a href="/files/resume.pdf">CV</a>.
+  I'm currently looking for full-time roles in <strong>Machine Learning</strong> and <strong>Applied AI</strong> starting Jan 2027 — if you're working on something interesting, I'd love to connect. Feel free to reach out via <a href="mailto:[praneeth.mallupalli@gmail.com]">[email]</a>, <a href="https://www.linkedin.com/in/praneethreddym/">LinkedIn</a>, or <a href="https://github.com/prm036">GitHub</a>, or check out my <a href="/files/resume.pdf">CV</a>.
 </p>
 
 <div class="section-heading">Projects</div>
